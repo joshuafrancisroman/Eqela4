@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# PictureQuadrant
+#
+
+projectname: PictureQuadrant
+vendorid: com.mycompany
+mainmodule: com.mycompany.picturequadrant
